@@ -1,6 +1,20 @@
-# PyTorch Optimizers
+# A Tour of Optimizers in PyTorch
 
-[WIP] walking through pytorch optimization algorithms by implementing them from scratch
+In this repo we'll be walking through different optimization algorithms by describing how they work and then implementing them in PyTorch.
+
+We'll cover:
+- SGD
+- SGD with momentum
+- Adagrad
+- Adadelta
+- RMSprop
+- Adam
+
+More may be added in the future!
+
+The notebook is best rendered in Jupyter's NBViewer via [this](https://nbviewer.jupyter.org/github/bentrevett/pytorch-optimizers/blob/main/a-tour-of-optimizers.ipynb) link. GitHub does a pretty poor job of rendering equations in notebooks.
+
+If you find any mistakes or have any feedback, please submit an [issue](https://github.com/bentrevett/a-tour-of-optimizers/issues/new) and I'll try and respond ASAP.
 
 ### Resources
 
