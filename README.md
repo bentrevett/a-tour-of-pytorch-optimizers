@@ -17,9 +17,9 @@ More may be added in the future!
 
 ---
 
-The notebook is best rendered in Jupyter's NBViewer via [this](https://nbviewer.jupyter.org/github/bentrevett/pytorch-optimizers/blob/main/a-tour-of-optimizers.ipynb) link. GitHub does a pretty poor job of rendering equations in notebooks.
+The notebook is best rendered in Jupyter's NBViewer via [this](https://nbviewer.jupyter.org/github/bentrevett/a-tour-of-pytorch-optimizers/blob/main/a-tour-of-pytorch-optimizers.ipynb) link as GitHub does a pretty poor job of rendering equations in notebooks.
 
-If you find any mistakes or have any feedback, please submit an [issue](https://github.com/bentrevett/a-tour-of-optimizers/issues/new) and I'll try and respond ASAP.
+If you find any mistakes or have any feedback, please submit an [issue](https://github.com/bentrevett/a-tour-of-pytorch-optimizers/issues/new) and I'll try and respond ASAP.
 
 ---
 
