@@ -1,4 +1,4 @@
-# A Tour of Optimizers in PyTorch
+# A Tour of PyTorch Optimizers
 
 In this tutorial repo we'll be walking through different gradient descent optimization algorithms by describing how they work and then implementing them in PyTorch (1.6 or higher).
 
